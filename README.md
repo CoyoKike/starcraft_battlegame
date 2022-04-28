@@ -1,5 +1,5 @@
 # starcraft_battlegame
-About
+
 This is a Star Craft based battle game made for educational purposes. I do not own any rights to this game or the Blizzard company. 
 
 Instructions: 
